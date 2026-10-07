@@ -6,3 +6,6 @@ toto je prvni zmenena na lokalnim repositari
 toto je uprava z remote
 
 toto je zmena z vetve1
+
+
+test push
