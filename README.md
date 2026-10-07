@@ -9,3 +9,6 @@ toto je zmena z vetve1
 
 
 test push
+
+
+qergwerwrhwthwhwjwrtj
